@@ -1,5 +1,6 @@
 # Reflectie GIT lessen M1SKIL
 ## Reflectie van Bethuel 
+[Bethuel](img/Bethuel.webp)
 ### Wat heb ik met deze lessen nieuw geleerd?
 - Ik wist nog niet dat ...
 - Ik vind het handig dat ...
